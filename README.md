@@ -7,7 +7,7 @@ This repository contains supporting data for the **FeatureDCA** project, organiz
 ## 📁 Folder Structure
 
 ### `data/`
-Contains multiple protein family datasets, originally sourced from the [ArDCAData](https://github.com/soedinglab/ArDCAData) repository.
+Contains multiple protein family datasets, originally sourced from the [ArDCAData](https://github.com/pagnani/ArDCAData) repository.
 
 - Multiple FASTA files and related sequence data.
 - Used as reference for model training and comparison.
